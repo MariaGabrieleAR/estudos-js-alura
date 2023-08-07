@@ -1,0 +1,12 @@
+{
+    "nome": "Gabi",
+    "email":"gabi@firma.com",
+    "telefone": ["4198985574", "4188779955"],
+    "enderecos": {
+        "rua": "R. Paranagua",
+        "numero": 1,
+        "apartamento": true,
+        "complemento": "ap 305"
+
+    }
+}
